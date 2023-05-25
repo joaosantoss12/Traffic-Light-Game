@@ -1,2 +1,2 @@
-# Semaphore-Game
-Semaphore Game built in C language.
+# Traffic-Light-Game
+Traffic Light Game built in C language 🚦
